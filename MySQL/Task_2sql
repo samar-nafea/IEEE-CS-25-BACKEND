@@ -1,1 +1,14 @@
+/* Problem 1
+Revising the Select Query I */
+select* from city where CountryCode ='USA' and POPULATION>100000 ;
 
+/* Problem 2
+Revising the Select Query II */
+select Name from city where  CountryCode ='USA' and POPULATION> 120000 ;
+
+/* Problem 3
+Japanese Cities' Attributes */
+select* from city where COUNTRYCODE='JPN' ;
+
+/* Problem 4
+Employee Names */
