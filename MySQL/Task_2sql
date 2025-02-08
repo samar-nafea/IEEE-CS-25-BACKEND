@@ -12,3 +12,11 @@ select* from city where COUNTRYCODE='JPN' ;
 
 /* Problem 4
 Employee Names */
+select  name from  Employee order by name ASC ;
+
+/* Problem 5
+Employee Salaries */
+select name from Employee where salary>2000 and months<10 order by employee_id ASC ;
+
+/* Problem 6
+Higher Than 75 Marks */
