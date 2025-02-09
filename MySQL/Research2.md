@@ -8,8 +8,8 @@ It's also the basis for modern database systems like MySQL.
 
 ##Resources:-
 
-- [Resourse_1] (What Is A Relational Database (RDBMS)? | Google Cloud)
-- [Resourse_2] (What is an RDBMS (relational database management system)? | Definition from TechTarget)
+- [Resourse_1] (https://cloud.google.com/learn/what-is-a-relational-database)
+- [Resourse_2] (https://www.techtarget.com/searchdatamanagement/definition/RDBMS-relational-database-management-system)
 
 >RDBMS VS DBMS?
 
