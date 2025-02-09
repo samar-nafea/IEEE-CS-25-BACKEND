@@ -25,3 +25,4 @@ select name from STUDENTS where marks>75  order by substr(name, length(name)-2 ,
 
 /* Problem 7
 Unfinished Parts */
+SELECT part, assembly_step FROM parts_assembly WHERE finish_date IS NULL;
