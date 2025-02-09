@@ -1,6 +1,7 @@
 #Research
 
 >What is RDBMS?
+
 A collection of information that organizes data in predefined relationships where data is stored in one or more tables (or "relations") of columns and rows, making it easy to see and understand how different data structures relate to each other. 
 An RDBMS includes functions that maintain the security, accuracy, integrity and consistency of the data.
 It's also the basis for modern database systems like MySQL.
@@ -39,8 +40,9 @@ It's also the basis for modern database systems like MySQL.
 ##Resources:-
 - [Resourse_1] (https://www.geeksforgeeks.org/difference-between-rdbms-and-dbms/?utm_source=chatgpt.com)
 
->Naming conventions
+> Naming conventions
 In computer programming, a naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
+
 ###In MySQL:
 -Table name in Singular and Lower Case
 -Field Names be short names , easy and understandable
