@@ -7,6 +7,7 @@ An RDBMS includes functions that maintain the security, accuracy, integrity and 
 It's also the basis for modern database systems like MySQL.
 
 ##Resources:-
+
 - [Resourse_1] (What Is A Relational Database (RDBMS)? | Google Cloud)
 - [Resourse_2] (What is an RDBMS (relational database management system)? | Definition from TechTarget)
 
@@ -38,7 +39,8 @@ It's also the basis for modern database systems like MySQL.
 12. **Examples** – DBMS: XML, Windows Registry, FoxPro. RDBMS: MySQL, PostgreSQL, SQL Server, Oracle.  
 
 ##Resources:-
-- [Resourse_1] (https://www.geeksforgeeks.org/difference-between-rdbms-and-dbms/?utm_source=chatgpt.com)
+
+- [Resourse_1]  (https://www.geeksforgeeks.org/difference-between-rdbms-and-dbms/?utm_source=chatgpt.com)
 
 > Naming conventions
 In computer programming, a naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
@@ -48,5 +50,6 @@ In computer programming, a naming convention is a set of rules for choosing the 
 -Field Names be short names , easy and understandable
 
 ##Resources:-
+
 -[Resourse_1] (https://medium.com/wix-engineering/naming-convention-8-basic-rules-for-any-piece-of-code-c4c5f65b0c09)
 -[Resourse_2] (https://medium.com/@centizennationwide/mysql-naming-conventions-e3a6f6219efe)
