@@ -1,6 +1,5 @@
 # Research Part
 ## Task_1
-
 > What is a database?
 
 A database is a well-organized collection of information, designed so that a computer program can easily access and use it later.
