@@ -25,7 +25,7 @@ Structured Query Language (SQL) is a standardized programming language that is u
 
 Resource:-
 
-- [ [Resourse_1]] (https://www.techtarget.com/searchdatamanagement/definition/SQL)
+- [ [Resourse_1] (https://www.techtarget.com/searchdatamanagement/definition/SQL)
 
 > What is the history of MySQL?
  
