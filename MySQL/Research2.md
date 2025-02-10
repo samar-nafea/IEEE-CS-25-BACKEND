@@ -39,7 +39,7 @@ Resource:-
 
 - Oracle Database : It is known for its scalability, security and reliability, making it a popular choice for large enterprises and government organisations. Oracle Database offers a wide range of features, including support for partitioning, replication, spatial data management and high availability. 
 
-- MySQL MySQL : is a widely used open source relational database. It is known for its reliability, speed and ease of use, making it a popular choice for both small web applications and large enterprise systems. It is compatible with a variety of platforms and offers a wide range of features, including support for ACID transactions and master-slave replication.
+- MySQL --> MySQL : is a widely used open source relational database. It is known for its reliability, speed and ease of use, making it a popular choice for both small web applications and large enterprise systems. It is compatible with a variety of platforms and offers a wide range of features, including support for ACID transactions and master-slave replication.
 
 - Microsoft SQL Server : It is widely used in enterprise environments due to its integration with other Microsoft tools, such as the .NET Framework and Visual Studio. Microsoft SQL Server offers advanced features such as support for stored procedures, triggers, ACID transactions and replication, making it a solid choice for mission-critical enterprise applications. 
 
