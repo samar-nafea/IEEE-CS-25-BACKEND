@@ -1,5 +1,6 @@
 # Research Part
 ## Task_1
+
 > What is a database?
 
 A database is a well-organized collection of information, designed so that a computer program can easily access and use it later.
@@ -53,7 +54,6 @@ Resources:-
 
 -----------
 ## Task_2
-
 > What is RDBMS?
 
 A collection of information that organizes data in predefined relationships where data is stored in one or more tables (or "relations") of columns and rows, making it easy to see and understand how different data structures relate to each other. 
