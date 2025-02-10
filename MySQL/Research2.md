@@ -37,15 +37,15 @@ Resource:-
 
 > What are the most 5 famous DBs in the world now?and why? 
 
-- Oracle Database : It is known for its scalability, security and reliability, making it a popular choice for large enterprises and government organisations. Oracle Database offers a wide range of features, including support for partitioning, replication, spatial data management and high availability. 
+- Oracle Database ---> It is known for its scalability, security and reliability, making it a popular choice for large enterprises and government organisations. Oracle Database offers a wide range of features, including support for partitioning, replication, spatial data management and high availability. 
 
-- MySQL --> MySQL : is a widely used open source relational database. It is known for its reliability, speed and ease of use, making it a popular choice for both small web applications and large enterprise systems. It is compatible with a variety of platforms and offers a wide range of features, including support for ACID transactions and master-slave replication.
+- MySQL ---> MySQL is a widely used open source relational database. It is known for its reliability, speed and ease of use, making it a popular choice for both small web applications and large enterprise systems. It is compatible with a variety of platforms and offers a wide range of features, including support for ACID transactions and master-slave replication.
 
-- Microsoft SQL Server : It is widely used in enterprise environments due to its integration with other Microsoft tools, such as the .NET Framework and Visual Studio. Microsoft SQL Server offers advanced features such as support for stored procedures, triggers, ACID transactions and replication, making it a solid choice for mission-critical enterprise applications. 
+- Microsoft SQL Server ---> It is widely used in enterprise environments due to its integration with other Microsoft tools, such as the .NET Framework and Visual Studio. Microsoft SQL Server offers advanced features such as support for stored procedures, triggers, ACID transactions and replication, making it a solid choice for mission-critical enterprise applications. 
 
-- PostgreSQL PostgreSQL : is another open source relational database that has gained popularity in recent years. It is known for its robustness, extensibility and compliance with ANSI SQL standards. PostgreSQL offers support for advanced features such as ACID transactions, foreign keys, stored procedures and custom data types, making it ideal for a wide range of applications. 
+- PostgreSQL ---> PostgreSQL is another open source relational database that has gained popularity in recent years. It is known for its robustness, extensibility and compliance with ANSI SQL standards. PostgreSQL offers support for advanced features such as ACID transactions, foreign keys, stored procedures and custom data types, making it ideal for a wide range of applications. 
 
-- MongoDB MongoDB : is a document-oriented NoSQL database that has become very popular for web and mobile applications. Unlike relational databases, MongoDB stores data in flexible JSON documents, which facilitates scalability and adaptability to changes in the data schema. It is highly scalable and offers features such as indexing, replication and automatic partitioning
+- MongoDB  ---> MongoDB is a document-oriented NoSQL database that has become very popular for web and mobile applications. Unlike relational databases, MongoDB stores data in flexible JSON documents, which facilitates scalability and adaptability to changes in the data schema. It is highly scalable and offers features such as indexing, replication and automatic partitioning
 
 Resources:- 
 - [Resourse_1] (https://www.swhosting.com/en/blog/the-5-most-widely-used-databases-worldwide-which-is-the-best-choice-for-my-project) 
