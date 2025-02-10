@@ -35,7 +35,7 @@ In 2008, Sun Microsystems acquired MySQL AB for approximately $1 billion. The or
 2001-2006: Rapid growth, venture funding, and expansion into enterprise markets. ##2008: Sun Microsystems acquired MySQL for $1 billion.
 
 Resource:- 
-- [Resourse_1] MySQL History - javatpoint
+- [Resourse_1] (https://www.tpointtech.com/mysql-history)
 
 > What are the most 5 famous DBs in the world now?and why? 
 
