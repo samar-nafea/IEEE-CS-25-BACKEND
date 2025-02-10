@@ -49,8 +49,8 @@ Resource:-
 
 Resources:- 
 - [Resourse_1] (https://www.swhosting.com/en/blog/the-5-most-widely-used-databases-worldwide-which-is-the-best-choice-for-my-project) 
-- [Resourse_2] (DB-Engines Ranking - popularity ranking of database management systems)
-- [Resourse_3] (Most Popular Databases in 2024 - GeeksforGeeks )
+- [Resourse_2] (https://db-engines.com/en/ranking)
+- [Resourse_3] (https://www.geeksforgeeks.org/most-popular-databases/) )
 
 
 
