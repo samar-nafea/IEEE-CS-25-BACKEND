@@ -1,4 +1,3 @@
-# Research Part
 ## Task_1
 > What is a database?
 
