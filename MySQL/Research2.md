@@ -23,7 +23,7 @@ Resource:-
 Structured Query Language (SQL) is a standardized programming language that is used to manage relational databases and perform various operations on the data in them. Initially created in the 1970s, SQL is regularly used not only by database administrators but also by developers writing data integration scripts and data analysts looking to set up and run analytical queries. SQL is used for the following: Modifying database table and index structures. Adding, updating and deleting rows of data. Retrieving subsets of information from within relational database management systems (RDBMSes). This information can be used for transaction processing, analytics applications and other applications that require communicating with a relational database.
 
 Resource:-
-- [ [Resourse_1] (https://www.techtarget.com/searchdatamanagement/definition/SQL)
+- [Resourse_1] (https://www.techtarget.com/searchdatamanagement/definition/SQL)
 
 > What is the history of MySQL?
  
@@ -48,7 +48,7 @@ Resource:-
 - MongoDB MongoDB : is a document-oriented NoSQL database that has become very popular for web and mobile applications. Unlike relational databases, MongoDB stores data in flexible JSON documents, which facilitates scalability and adaptability to changes in the data schema. It is highly scalable and offers features such as indexing, replication and automatic partitioning
 
 Resources:- 
-( The 5 most widely used databases worldwide: Which is the best choice for my project? - SW Hosting's Blog , DB-Engines Ranking - popularity ranking of database management systems , Most Popular Databases in 2024 - GeeksforGeeks )
+- [Resourse_1] ( The 5 most widely used databases worldwide: Which is the best choice for my project? - SW Hosting's Blog , DB-Engines Ranking - popularity ranking of database management systems , Most Popular Databases in 2024 - GeeksforGeeks )
 
 
 
