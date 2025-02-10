@@ -103,7 +103,7 @@ It's also the basis for modern database systems like MySQL.
 
 In computer programming, a naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
 
-### In MySQL:
+# In MySQL:
 - Table name in Singular and Lower Case
 - Field Names be short names , easy and understandable
 
