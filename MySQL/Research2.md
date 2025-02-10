@@ -48,7 +48,8 @@ Resource:-
 - MongoDB MongoDB : is a document-oriented NoSQL database that has become very popular for web and mobile applications. Unlike relational databases, MongoDB stores data in flexible JSON documents, which facilitates scalability and adaptability to changes in the data schema. It is highly scalable and offers features such as indexing, replication and automatic partitioning
 
 Resources:- 
-- [Resourse_1] ( The 5 most widely used databases worldwide: Which is the best choice for my project? - SW Hosting's Blog , DB-Engines Ranking - popularity ranking of database management systems , Most Popular Databases in 2024 - GeeksforGeeks )
+- [Resourse_1] ( The 5 most widely used databases worldwide: Which is the best choice for my project? - SW Hosting's Blog )
+- [Resourse_2] (DB-Engines Ranking - popularity ranking of database management systems , Most Popular Databases in 2024 - GeeksforGeeks )
 
 
 
