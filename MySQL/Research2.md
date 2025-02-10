@@ -63,7 +63,7 @@ A collection of information that organizes data in predefined relationships wher
 An RDBMS includes functions that maintain the security, accuracy, integrity and consistency of the data.
 It's also the basis for modern database systems like MySQL.
 
-## Resources:-
+Resources:-
 
 - [Resourse_1] (https://cloud.google.com/learn/what-is-a-relational-database)
 - [Resourse_2] (https://www.techtarget.com/searchdatamanagement/definition/RDBMS-relational-database-management-system)
@@ -95,7 +95,7 @@ It's also the basis for modern database systems like MySQL.
 
 12. **Examples** – DBMS: XML, Windows Registry, FoxPro. RDBMS: MySQL, PostgreSQL, SQL Server, Oracle.  
 
-## Resources:-
+Resources:-
 
 -  [Resourse_1]  (https://www.geeksforgeeks.org/difference-between-rdbms-and-dbms/?utm_source=chatgpt.com)
 
@@ -107,7 +107,7 @@ In MySQL:
 - Table name in Singular and Lower Case
 - Field Names be short names , easy and understandable
 
-## Resources:-
+Resources:-
 
 -  [Resourse_1] (https://medium.com/wix-engineering/naming-convention-8-basic-rules-for-any-piece-of-code-c4c5f65b0c09)
 -  [Resourse_2] (https://medium.com/@centizennationwide/mysql-naming-conventions-e3a6f6219efe)
