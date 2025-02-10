@@ -14,3 +14,4 @@ select  distinct city from STATION where not(city like '%A' or city like '%E' or
 select  distinct city from STATION where not(city like 'A%' or city like 'E%' or city like 'I%' or city like 'O%' or city like 'U%' or city like '%A' or city like '%E' or city like '%I' or city like '%O' or city like '%U');
 
 -- Sixth Problem
+select round(avg(population),0) from city ;
