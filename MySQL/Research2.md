@@ -25,17 +25,17 @@ Structured Query Language (SQL) is a standardized programming language that is u
 
 Resource:-
 
-https://www.techtarget.com/searchdatamanagement/definition/SQL
+- [ [Resourse_1]] (https://www.techtarget.com/searchdatamanagement/definition/SQL)
 
 > What is the history of MySQL?
-> 
+ 
 MySQL is an open-source database product created by MySQL AB, a company founded in 1995 in Sweden.
 In 2008, Sun Microsystems acquired MySQL AB for approximately $1 billion. The origins of MySQL date back to 1979 when Michael Widenius developed an internal database tool called UNIREG. Over time, UNIREG evolved and was rewritten in different languages. Later, Widenius collaborated with David Hughes, the creator of mSQL, to integrate indexing capabilities. This collaboration led to the creation of MySQL. 
 1995: MySQL AB was founded by Michael Widenius, David Axmark, and Allan Larsson. ##2000: MySQL became open source undthe GPL license.
 2001-2006: Rapid growth, venture funding, and expansion into enterprise markets. ##2008: Sun Microsystems acquired MySQL for $1 billion.
 
 Resource:- 
-MySQL History - javatpoint
+- [Resourse_1] MySQL History - javatpoint
 
 > What are the most 5 famous DBs in the world now?and why? 
 
@@ -104,8 +104,8 @@ It's also the basis for modern database systems like MySQL.
 In computer programming, a naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
 
 ### In MySQL:
--Table name in Singular and Lower Case
--Field Names be short names , easy and understandable
+- Table name in Singular and Lower Case
+- Field Names be short names , easy and understandable
 
 ## Resources:-
 
