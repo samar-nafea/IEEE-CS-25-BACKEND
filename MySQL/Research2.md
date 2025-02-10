@@ -43,6 +43,7 @@ It's also the basis for modern database systems like MySQL.
 -  [Resourse_1]  (https://www.geeksforgeeks.org/difference-between-rdbms-and-dbms/?utm_source=chatgpt.com)
 
 > Naming conventions
+
 In computer programming, a naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
 
 ### In MySQL:
