@@ -1,6 +1,5 @@
 # Research Part
 ## Task_1
-
 > What is a database?
 
 A database is a well-organized collection of information, designed so that a computer program can easily access and use it later.
@@ -15,14 +14,14 @@ There are different types of databases, usually grouped based on how they organi
 
 Databases exist to efficiently store, organize, and manage large amounts of information, enabling quick access, retrieval, and manipulation of data. They help prevent data redundancy by ensuring each piece of information is stored in a single location, making it easier to find and use when needed. Without databases, managing and retrieving vast amounts of data would be cumbersome and prone to errors. They are essential tools for businesses and organizations to maintain structured and accessible information systems.
 
-Resource:-
+Resources:-
 - [Resourse_1] (https://blog.airtable.com/what-is-a-database/#:~:text=The%20purpose%20of%20a%20database,one%20location%20at%20a%20time)
 
 > What is the SQL? 
 
 Structured Query Language (SQL) is a standardized programming language that is used to manage relational databases and perform various operations on the data in them. Initially created in the 1970s, SQL is regularly used not only by database administrators but also by developers writing data integration scripts and data analysts looking to set up and run analytical queries. SQL is used for the following: Modifying database table and index structures. Adding, updating and deleting rows of data. Retrieving subsets of information from within relational database management systems (RDBMSes). This information can be used for transaction processing, analytics applications and other applications that require communicating with a relational database.
 
-Resource:-
+Resources:-
 - [Resourse_1] (https://www.techtarget.com/searchdatamanagement/definition/SQL)
 
 > What is the history of MySQL?
@@ -32,7 +31,7 @@ In 2008, Sun Microsystems acquired MySQL AB for approximately $1 billion. The or
 1995: MySQL AB was founded by Michael Widenius, David Axmark, and Allan Larsson. ##2000: MySQL became open source undthe GPL license.
 2001-2006: Rapid growth, venture funding, and expansion into enterprise markets. ##2008: Sun Microsystems acquired MySQL for $1 billion.
 
-Resource:- 
+Resources:- 
 - [Resourse_1] (https://www.tpointtech.com/mysql-history)
 
 > What are the most 5 famous DBs in the world now?and why? 
@@ -52,9 +51,7 @@ Resources:-
 - [Resourse_2] (https://db-engines.com/en/ranking)
 - [Resourse_3] (https://www.geeksforgeeks.org/most-popular-databases/) )
 
-
 -----------
-
 ## Task_2
 
 > What is RDBMS?
