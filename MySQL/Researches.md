@@ -114,7 +114,34 @@ Resources:-
 
 > Constraints in MySQL?
 
+Constraints ---> Constraints in MySQL define rules for data integrity and accuracy. If a data operation violates a constraint, the action is aborted.
 
+Types of MySQL Constraints:-
+- Column Level Constraints – Applied to a single column.
+- Table Level Constraints – Applied to the entire table.
+
+Common Constraints in MySQL:-
+
+- NOT NULL: Prevents null values.
+- CHECK: Enforces a condition (limited support in MySQL).
+- DEFAULT: Sets a default value.
+- PRIMARY KEY: Ensures unique row identification.
+- AUTO_INCREMENT: Automatically increases values.
+- UNIQUE: Prevents duplicate values.
+- INDEX: Improves search performance.
+- ENUM: Restricts values to predefined options.
+- FOREIGN KEY: Maintains relationships between tables.
+- 
+Creating Constraints in MySQL:-
+
+1. Use CREATE TABLE to define constraints at table creation.
+2. Use ALTER TABLE to modify constraints in an existing table.
+
+Resources:-
+
+-  [Resourse_1] (https://www.w3schools.com/mysql/mysql_constraints.asp))
+-  [Resourse_2] (https://www.tpointtech.com/mysql-constraints)
+-  
 > Indexing in MySQL?
 
 Indexing in MySQL ---> indexes in MySQL speed up data retrieval but require careful management to avoid slowing down inserts and updates.
