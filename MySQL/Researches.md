@@ -119,3 +119,16 @@ Resources:-
 
 
 > Difference between MySQL and Postgresql?
+
+MySQL and PostgreSQL are both open-source database management systems, but they differ in key areas:
+
+MySQL: Known for speed and ease of use, ideal for web applications and read-heavy workloads.
+PostgreSQL: Offers advanced features, strong data integrity, and better support for complex queries.
+
+Key Differences:
+
+- Data Integrity ---> PostgreSQL prioritizes concurrency and integrity, while MySQL focuses on performance.
+- Extensibility ---> PostgreSQL is highly SQL-compliant and extensible, while MySQL is simpler but less flexible.
+- Performance ---> MySQL excels in read-heavy tasks, while PostgreSQL handles complex data processing and scaling better.
+- Community & Support ---> PostgreSQL has an active community and extensive documentation, while MySQL has a larger user base and strong commercial support.
+- License ---> PostgreSQL has a permissive license, while MySQL follows GPL with Oracle's commercial options.
