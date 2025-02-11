@@ -120,17 +120,17 @@ Both ensure uniqueness, but there are key differences:
 
 Key Differences:-
 
-- Primary Key
+1. Primary Key
 
- - Uniquely identifies records.
- - No NULL values allowed.
- - Only one per table.
+  - Uniquely identifies records.
+  - No NULL values allowed.
+  - Only one per table.
   
-- Unique Key
+2. Unique Key
 
- - Prevents duplicate values.
- - Allows NULL values.
- - Multiple unique keys per table.
+  - Prevents duplicate values.
+  - Allows NULL values.
+  - Multiple unique keys per table.
 
 
 Resources:-
