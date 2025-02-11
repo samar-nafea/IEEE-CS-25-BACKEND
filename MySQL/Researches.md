@@ -109,3 +109,13 @@ Resources:-
 
   ------
   ## Task_3
+> Primary keys vs Unique keys?
+
+
+> Constraints in MySQL?
+
+
+> Indexing in MySQL?
+
+
+> Difference between MySQL and Postgresql?
