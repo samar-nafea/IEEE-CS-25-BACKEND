@@ -139,7 +139,7 @@ Creating Constraints in MySQL:-
 
 Resources:-
 
--  [Resourse_1] (https://www.w3schools.com/mysql/mysql_constraints.asp))
+-  [Resourse_1] (https://www.w3schools.com/mysql/mysql_constraints.asp)
 -  [Resourse_2] (https://www.tpointtech.com/mysql-constraints)
    
 > Indexing in MySQL?
