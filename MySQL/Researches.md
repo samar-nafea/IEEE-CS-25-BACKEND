@@ -131,7 +131,7 @@ Common Constraints in MySQL:-
 - INDEX: Improves search performance.
 - ENUM: Restricts values to predefined options.
 - FOREIGN KEY: Maintains relationships between tables.
-- 
+ 
 Creating Constraints in MySQL:-
 
 1. Use CREATE TABLE to define constraints at table creation.
@@ -141,7 +141,7 @@ Resources:-
 
 -  [Resourse_1] (https://www.w3schools.com/mysql/mysql_constraints.asp))
 -  [Resourse_2] (https://www.tpointtech.com/mysql-constraints)
--  
+   
 > Indexing in MySQL?
 
 Indexing in MySQL ---> indexes in MySQL speed up data retrieval but require careful management to avoid slowing down inserts and updates.
