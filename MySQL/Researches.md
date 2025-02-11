@@ -111,6 +111,11 @@ Resources:-
   ## Task_3
 > Primary keys vs Unique keys?
 
+Both ensure uniqueness, but there are key differences:
+
+- Primary Key: Uniquely identifies each row, cannot store NULL or duplicate values.
+- Unique Key: Prevents duplicate values but can store NULL.
+
 
 > Constraints in MySQL?
 
