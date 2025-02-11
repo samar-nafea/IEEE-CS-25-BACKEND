@@ -116,6 +116,7 @@ Resources:-
 
 
 > Indexing in MySQL?
+
 Indexing in MySQL ---> indexes in MySQL speed up data retrieval but require careful management to avoid slowing down inserts and updates.
 
 Types of Indexes in MySQL:-
