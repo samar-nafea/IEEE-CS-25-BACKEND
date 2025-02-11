@@ -116,16 +116,27 @@ Resources:-
 
 
 > Indexing in MySQL?
+Indexing in MySQL ---> indexes in MySQL speed up data retrieval but require careful management to avoid slowing down inserts and updates.
 
+Types of Indexes in MySQL:-
+
+- Primary Key Index: Ensures unique row identification and prevents duplicates.
+- Unique Index: Similar to a primary key but allows NULL values while maintaining uniqueness.
+- Normal Index: Speeds up searches on frequently queried columns.
+
+Resources:-
+
+-  [Resourse_1] (https://www.percona.com/blog/understanding-mysql-indexes-types-best-practices/)
+-  [Resourse_2] (https://www.w3schools.com/mysql/mysql_create_index.asp)
 
 > Difference between MySQL and Postgresql?
 
-MySQL and PostgreSQL are both open-source database management systems, but they differ in key areas:
+MySQL and PostgreSQL are both open-source database management systems, but they differ in key areas:-
 
 - MySQL: Known for speed and ease of use, ideal for web applications and read-heavy workloads.
 - PostgreSQL: Offers advanced features, strong data integrity, and better support for complex queries.
 
-Key Differences:
+Key Differences:-
 
 - Data Integrity ---> PostgreSQL prioritizes concurrency and integrity, while MySQL focuses on performance.
 - Extensibility ---> PostgreSQL is highly SQL-compliant and extensible, while MySQL is simpler but less flexible.
