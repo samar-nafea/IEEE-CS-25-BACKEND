@@ -118,18 +118,19 @@ Both ensure uniqueness, but there are key differences:
 - Primary Key: Uniquely identifies each row, cannot store NULL or duplicate values.
 - Unique Key: Prevents duplicate values but can store NULL.
 
-Key Differences:
--- Primary Key
+Key Differences:-
 
-- Uniquely identifies records.
-- No NULL values allowed.
-- Only one per table.
+- Primary Key
+
+ - Uniquely identifies records.
+ - No NULL values allowed.
+ - Only one per table.
   
--- Unique Key
+- Unique Key
 
-- Prevents duplicate values.
-- Allows NULL values.
-- Multiple unique keys per table.
+ - Prevents duplicate values.
+ - Allows NULL values.
+ - Multiple unique keys per table.
 
 
 Resources:-
