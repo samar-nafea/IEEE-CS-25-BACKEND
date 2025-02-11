@@ -111,11 +111,30 @@ Resources:-
   ## Task_3
 > Primary keys vs Unique keys?
 
+Main Difference: A primary key cannot have NULL values, while a unique key can.
+
 Both ensure uniqueness, but there are key differences:
 
 - Primary Key: Uniquely identifies each row, cannot store NULL or duplicate values.
 - Unique Key: Prevents duplicate values but can store NULL.
 
+Key Differences:
+-- Primary Key
+
+- Uniquely identifies records.
+- No NULL values allowed.
+- Only one per table.
+  
+-- Unique Key
+
+- Prevents duplicate values.
+- Allows NULL values.
+- Multiple unique keys per table.
+
+
+Resources:-
+
+- [Resourse_1] (https://www.shiksha.com/online-courses/articles/primary-key-vs-unique-key/)
 
 > Constraints in MySQL?
 
