@@ -22,3 +22,7 @@ WHERE sent_date BETWEEn  '2022-08-01 00:00:00' AND '2022-08-31 23:59:59'
 GROUP BY sender_id  ORDER BY count(message_id)  DESC LIMIT 2 ;
 
 -- Eighth Problem
+SELECT  app_id, 
+round (100.0 * count(CASE WHEN event_type= 'click' THEN 1 END )/count(CASE WHEN event_type= 'impression' THEN 1 END), 2) as "ctr"
+FROM events  WHERE timestamp  BETWEEN '2022-01-01 00:00:00'  AND  '2022-12-31 23:59:59'  
+GROUP BY app_id ;
