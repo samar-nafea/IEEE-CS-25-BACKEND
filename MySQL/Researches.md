@@ -202,3 +202,25 @@ Resources:-
 -  [Resourse_1] (https://www.geeksforgeeks.org/difference-between-mysql-and-postgresql/)
  ----
   ## Task_4
+> Relations (one to one, one to many, many to many)?
+
+Building relationships in tables helps to organize and link data across multiple tables. Creating relationships among tables provides efficient data retrieval and maintenance maintenance.
+
+Relationships in SQL refer to the associations or connections between tables in a relational database. These relationships are established using foreign keys, which are columns in a table that refer to the primary key in another table. Relationships help organize and structure data, allowing for efficient data retrieval and maintaining data integrity.
+
+Type of Relationships in SQL:-
+
+1. One-to-One
+- Each record in Table A is associated with one and only one record in Table B, and vice versa.
+- Including a foreign key in one of the tables that references the primary key of the other table.
+  
+2. One-to-Many
+- Each record in Table A can be associated with multiple records in Table B, but each record in Table B is associated with only one record in Table A.
+- Including a foreign key in the "many" side table (Table B) that references the primary key of the "one" side table (Table A).
+
+3. Many-to-Many
+- Each record in Table A can be associated with multiple records in Table B, and vice versa..
+-  Creating an intermediate table (also known as a linking table) that contains foreign keys referencing both related tables.
+
+Resources:-
+(https://www.geeksforgeeks.org/relationships-in-sql-one-to-one-one-to-many-many-to-many/)
