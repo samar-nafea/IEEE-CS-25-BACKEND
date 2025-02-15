@@ -223,4 +223,5 @@ Type of Relationships in SQL:-
 -  Creating an intermediate table (also known as a linking table) that contains foreign keys referencing both related tables.
 
 Resources:-
-(https://www.geeksforgeeks.org/relationships-in-sql-one-to-one-one-to-many-many-to-many/)
+
+1. (https://www.geeksforgeeks.org/relationships-in-sql-one-to-one-one-to-many-many-to-many/)
