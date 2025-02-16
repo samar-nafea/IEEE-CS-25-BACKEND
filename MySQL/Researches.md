@@ -251,7 +251,10 @@ Denormalization involves combining tables that have been normalized to improve q
 |Normalization | Denormalization |
 |--------------|-----------------|
 |Data integrity is maintained in normalization | Data integrity is not maintained in denormalization|
+|Number of tables in normalization is increased | Denormalization, Number of tables in decreased |
+|Non-redundancy and consistency data are stored in set schema |  data are combined to execute the query quickly |
+|Data redundancy and inconsistency is reduced | redundancy is added for quick execution of queries |
 
 Resources:-
-1. ()
-2. (https://blog.purestorage.com/purely-educational/denormalized-vs-normalized-data/)
+1. (https://www.geeksforgeeks.org/difference-between-normalization-and-denormalization/)
+4. (https://blog.purestorage.com/purely-educational/denormalized-vs-normalized-data/)
