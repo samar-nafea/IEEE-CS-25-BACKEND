@@ -53,3 +53,8 @@ where LAT_N = (select max(LAT_N) from STATION where LAT_N < 137.2345 );
 
 --  Problem 10
 --  Placements 
+select name from Students s join Friends f on s.ID = f.ID  
+join Packages p on s.ID = p.ID  
+join Packages pk on f.Friend_ID = pk.ID
+where pk.Salary > p.Salary
+order by pk.salary;
