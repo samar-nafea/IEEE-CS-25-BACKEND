@@ -241,3 +241,17 @@ Resources:-
 
 1. (https://en.wikipedia.org/wiki/Write-ahead_logging)
 2. (https://www.postgresql.org/docs/current/wal-intro.html?utm_source=chatgpt.com)
+
+>  What are normalization and denormalization? Explain their differences?
+
+Normalization and denormalization are two key concepts in database design.
+The goal of normalization is to minimize data redundancy and dependency by organizing data into well-structured tables. 
+Denormalization involves combining tables that have been normalized to improve query performance and simplify data retrieval.
+
+|Normalization | Denormalization |
+|--------------|-----------------|
+|Data integrity is maintained in normalization | Data integrity is not maintained in denormalization|
+
+Resources:-
+1. ()
+2. (https://blog.purestorage.com/purely-educational/denormalized-vs-normalized-data/)
