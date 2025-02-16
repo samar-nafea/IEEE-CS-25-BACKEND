@@ -230,7 +230,7 @@ Resources:-
 
 Write-Ahead Logging (WAL) ensures data integrity by recording changes in a log before applying them to data files. This allows databases to recover from crashes by replaying logged changes (REDO) instead of flushing data to disk on every commit, improving efficiency and reliability.
 
-The main functionality of a write-ahead log can be summarized as:[3]
+The main functionality of a write-ahead log can be summarized as:-
 
 - Allow the page cache to buffer updates to disk-resident pages while ensuring durability semantics in the larger context of a database system.
 - Persist all operations on disk until the cached copies of pages affected by these operations are synchronized on disk. Every operation that modifies the 
