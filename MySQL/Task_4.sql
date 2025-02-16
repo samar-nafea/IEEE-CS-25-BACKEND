@@ -41,3 +41,5 @@ case  when g.grade < 8 then s.marks  end asc;
 
 -- Problem 8
 --  Symmetric Pairs 
+select a.x,a.y from Functions a join Functions b on a.x=b.y and b.x=a.y
+group by a.x, a.y  having count(a.x)>1 or a.x<a.y order by a.x ;
