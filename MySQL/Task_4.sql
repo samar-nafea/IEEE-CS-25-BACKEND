@@ -29,5 +29,15 @@ on  wa.code = wap.code   WHERE w.power = wa.power and wp.age = wap.age )
 order by w.power  desc , wp.age desc ;
 
 -- Problem 7
+--  The Report
+select
+case  when g.grade >= 8 then s.name  else  'NULL' 
+end as name, g.grade ,s.marks 
+from Students s join Grades g 
+on s.marks BETWEEN g.min_mark AND g.max_mark
+order by g.grade desc , 
+case  when g.grade >= 8 then s.name  end asc,
+case  when g.grade < 8 then s.marks  end asc;
 
 -- Problem 8
+--  Symmetric Pairs 
