@@ -43,3 +43,8 @@ case  when g.grade < 8 then s.marks  end asc;
 --  Symmetric Pairs 
 select a.x,a.y from Functions a join Functions b on a.x=b.y and b.x=a.y
 group by a.x, a.y  having count(a.x)>1 or a.x<a.y order by a.x ;
+
+-- Problem 9
+--  Weather Observation Station 15
+select  round(LONG_W,4) from STATION 
+where LAT_N = (select max(LAT_N) from STATION where LAT_N < 137.2345 );
