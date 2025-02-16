@@ -13,8 +13,10 @@ from TRIANGLES ;
 -- The PADS 
 
 -- Problem 3
+--  New Companies
 
 -- Problem 4
+--  SQL Project Planning
 
 -- Problem 5
 -- Average Population
@@ -48,3 +50,6 @@ group by a.x, a.y  having count(a.x)>1 or a.x<a.y order by a.x ;
 --  Weather Observation Station 15
 select  round(LONG_W,4) from STATION 
 where LAT_N = (select max(LAT_N) from STATION where LAT_N < 137.2345 );
+
+--  Problem 10
+--  Placements 
