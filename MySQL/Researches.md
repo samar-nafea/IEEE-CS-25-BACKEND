@@ -225,3 +225,18 @@ Type of Relationships in SQL:-
 Resources:-
 
 1. (https://www.geeksforgeeks.org/relationships-in-sql-one-to-one-one-to-many-many-to-many/)
+
+>  Write-ahead logging?
+Write-Ahead Logging (WAL) ensures data integrity by recording changes in a log before applying them to data files. This allows databases to recover from crashes by replaying logged changes (REDO) instead of flushing data to disk on every commit, improving efficiency and reliability.
+
+The main functionality of a write-ahead log can be summarized as:[3]
+
+- Allow the page cache to buffer updates to disk-resident pages while ensuring durability semantics in the larger context of a database system.
+- Persist all operations on disk until the cached copies of pages affected by these operations are synchronized on disk. Every operation that modifies the 
+ database state has to be logged on disk before the contents on the associated pages can be modified
+- Allow lost in-memory changes to be reconstructed from the operation log in case of a crash.
+
+Resources:-
+
+1. (https://en.wikipedia.org/wiki/Write-ahead_logging)
+2. (https://www.postgresql.org/docs/current/wal-intro.html?utm_source=chatgpt.com)
