@@ -11,6 +11,12 @@ from TRIANGLES ;
 
 -- Problem 2
 -- The PADS 
+SELECT CONCAT(name, '(', substring(OCCUPATION, 1, 1), ')') 
+from OCCUPATIONS order by name;
+
+select CONCAT('There are a total of ',(COUNT(OCCUPATION)),' ', LOWER(occupation),'s.') from OCCUPATIONS 
+group by OCCUPATION
+order by count(OCCUPATION), OCCUPATION;
 
 -- Problem 3
 --  New Companies
