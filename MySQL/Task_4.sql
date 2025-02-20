@@ -32,6 +32,11 @@ order by c.company_code ;
 
 -- Problem 4
 --  SQL Project Planning
+WITH Projectgroups AS (SELECT Start_Date,End_Date,Start_Date - INTERVAL ROW_NUMBER() OVER (ORDER BY Start_Date) DAY 
+AS project_group FROM Projects)
+SELECT min(Start_Date) AS project_start, max(End_Date) AS project_end
+FROM ProjectGroups  GROUP BY project_group
+ORDER BY DATEDIFF(project_end, project_start), project_start;
 
 -- Problem 5
 -- Average Population
