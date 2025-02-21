@@ -81,4 +81,24 @@ order by pk.salary;
 
 --  Problem 11
 -- Interviews
-
+select con.contest_id, con.hacker_id, con.name, 
+IFNULL(st.sum_ts, 0) as total_submissions,
+IFNULL(st.sum_tas, 0) as total_accepted_submissions, 
+IFNULL(vt.sum_tv, 0) as total_views, 
+IFNULL(vt.sum_tuv, 0) as total_unique_views
+from Contests as con LEFT JOIN ( select coll.contest_id, 
+sum(IFNULL(ss.total_submissions, 0)) as sum_ts, 
+sum(IFNULL(ss.total_accepted_submissions, 0)) as sum_tas
+from Colleges as coll JOIN Challenges as chall 
+on coll.college_id = chall.college_id
+LEFT JOIN Submission_Stats as ss 
+on chall.challenge_id = ss.challenge_id 
+group by coll.contest_id ) as st on con.contest_id = st.contest_id
+LEFT JOIN ( select coll.contest_id, sum(IFNULL(vs.total_views, 0)) as sum_tv, 
+sum(IFNULL(vs.total_unique_views, 0)) as sum_tuv from Colleges as coll
+JOIN Challenges as chall on coll.college_id = chall.college_id
+LEFT JOIN View_Stats as vs on chall.challenge_id = vs.challenge_id
+group by coll.contest_id ) as vt on con.contest_id = vt.contest_id
+where (IFNULL(st.sum_ts, 0) > 0 or IFNULL(st.sum_tas, 0) > 0 
+or IFNULL(vt.sum_tv, 0) > 0  or IFNULL(vt.sum_tuv, 0) > 0)
+order by con.contest_id;
