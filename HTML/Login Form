@@ -9,8 +9,12 @@
     <form>
         <input type="email" placeholder="email" required ><br>
         <input type="password" placeholder="password" required><br>
-        <input type="button" value="Login">
-        <a href=""></a>
+        <input type="button" value="Login"><br>
+        <a href="">
+            <font color="blue" size="4">
+                Create Account
+            </font>
+        </a>
     </form>
 </body>
 </html>
