@@ -11,7 +11,7 @@
         <input type="email" placeholder="email" required ><br>
         <input type="password" placeholder="password" required><br>
         <input type="button" value="Register"><br>
-        <a href="">
+        <a href="login.html">
             <font color="blue" size="4">
             Already have an account? Login
         </font>
