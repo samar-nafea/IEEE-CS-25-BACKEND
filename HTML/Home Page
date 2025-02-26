@@ -8,14 +8,12 @@
     <font color="red" size="4" > <h1>Home Page</h1> </font>
     <p>
         <font color="blue" size="7" >
-        <b>
-            <i>
-         Welcome to our Page<br></i>
-        🥰
+        <b><i> Welcome to our Page<br></i>
+         🥰
         </b>
         </font>
-    </p>
- <a href="login.html">Logout</a>
-    </form>
+        <br>
+        <h2><b><a href="login.html">Logout</a></b></h2>
+        </p>
 </body>
 </html>
