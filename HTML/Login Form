@@ -12,7 +12,7 @@
         <input type="button" value="Login"><br>
         <a href="">
             <font color="blue" size="4">
-                Create Account
+                Create an account
             </font>
         </a>
     </form>
