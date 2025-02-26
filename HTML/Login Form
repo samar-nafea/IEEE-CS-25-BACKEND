@@ -10,7 +10,7 @@
         <input type="email" placeholder="email" required ><br>
         <input type="password" placeholder="password" required><br>
         <input type="button" value="Login"><br>
-        <a href="">
+        <a href="register.html">
             <font color="blue" size="4">
                 Create an account
             </font>
