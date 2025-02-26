@@ -15,6 +15,7 @@
         </b>
         </font>
     </p>
+ <a href="login.html">Logout</a>
     </form>
 </body>
 </html>
