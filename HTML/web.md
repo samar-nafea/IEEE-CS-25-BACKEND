@@ -1,7 +1,13 @@
 > How the web works?
 
+Resources:-
+- [Resourse_1]()
+
 > HTTP VS HTTPS?
 
+Resources:-
+- [Resourse_1]()
+  
 > Web servers?
 
 A web server is both software and hardware that uses HTTP and other protocols to respond to client requests on the web. Its main role is to display website content, including text, images, videos, and applications, by storing, processing, and delivering webpages. Web servers are essential for web hosting.  
@@ -14,3 +20,7 @@ Resources:-
 - [Resourse_1](https://www.techtarget.com/whatis/definition/Web-server)
 
 > DNS?
+
+
+Resources:-
+- [Resourse_1]()
