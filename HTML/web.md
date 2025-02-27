@@ -1,7 +1,7 @@
 > How the web works?
 
 Resources:-
-- [Resourse_1]()
+- [Resourse_1](https://www.tutorialspoint.com/web_developers_guide/web_how_it_works.htm)
 
 > HTTP VS HTTPS?
 
