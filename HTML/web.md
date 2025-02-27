@@ -10,4 +10,7 @@ The hardware is a computer connected to the internet that stores web server soft
 
 Web server software controls access to hosted files and ensures website content is displayed on user devices. It works with domain names and supports multiple domains on one server. Besides HTTP, some web servers support SMTP for email and FTP for file transfer and storage.
 
+Resources:-
+- [Resourse_1](https://www.techtarget.com/whatis/definition/Web-server)
+
 > DNS?
