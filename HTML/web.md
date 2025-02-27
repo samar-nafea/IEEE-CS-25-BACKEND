@@ -20,7 +20,7 @@ Resources:-
 |   Data Encryption    |  No encryption, data is sent in plaintext     |  Encrypts data for secure communication |
 |Speed|Slightly faster due to no encryption overhead|Slightly slower due to encryption processing|
 |Usage|Used for non-sensitive data transmission|Used for secure transactions, logins, and sensitive data|
-|Protection Against Attacks|Vulnerable to attacks like Man-in-the-Middle (MITM)|Protects against MITM attacks and data interception|
+|Protection Against Attacks     |Vulnerable to attacks like Man-in-the-Middle (MITM)|Protects against MITM attacks and data interception|
 |SEO & Browser Preference|Not preferred by search engines and modern browsers|Preferred by search engines, improves SEO ranking|
 
 Resources:-
