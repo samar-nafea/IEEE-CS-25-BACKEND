@@ -10,10 +10,22 @@ A web page consists of multiple files, including HTML, images, and style sheets.
 Resources:-
 - [Resourse_1](https://www.tutorialspoint.com/web_developers_guide/web_how_it_works.htm)
 - [Resourse_2](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
+
 > HTTP VS HTTPS?
 
+|  Feature   |   HTTP     | HTTPS |
+| ------       |  ------    | -----|
+| Full Form  |  HyperText Transfer Protocol | HyperText Transfer Protocol Secure  |
+|   Security |  Not secure  |  Secure (uses SSL/TLS encryption) |
+|   Data Encryption    |  No encryption, data is sent in plaintext     |  Encrypts data for secure communication |
+|Speed|Slightly faster due to no encryption overhead|Slightly slower due to encryption processing|
+|Usage|Used for non-sensitive data transmission|Used for secure transactions, logins, and sensitive data|
+|Protection Against Attacks|Vulnerable to attacks like Man-in-the-Middle (MITM)|Protects against MITM attacks and data interception|
+|SEO & Browser Preference|Not preferred by search engines and modern browsers|Preferred by search engines, improves SEO ranking|
+
 Resources:-
-- [Resourse_1]()
+- [Resourse_1](https://www.geeksforgeeks.org/difference-between-http-and-https/)
+- [Resourse_2](https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/)
   
 > Web servers?
 
