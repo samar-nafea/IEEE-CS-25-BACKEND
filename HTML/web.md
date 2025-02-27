@@ -40,6 +40,20 @@ Resources:-
 
 > DNS?
 
+- What is DNS?  
+The Domain Name System (DNS) is the Internet's phonebook, translating domain names (e.g., nytimes.com) into IP addresses so browsers can load websites. Each device on the Internet has a unique IP address, and DNS eliminates the need to memorize complex numerical addresses.  
+
+- How does DNS work?
+DNS resolution converts a hostname (e.g., www.example.com) into an IP address (e.g., 192.168.1.1). This translation happens behind the scenes when a user enters a website address in a browser, ensuring the correct device is located on the Internet.  
+ 
+- DNS Structure and Functionality:- 
+DNS is a hierarchical and distributed system that assigns domain names and maps them to Internet resources. It operates with authoritative name servers to distribute responsibility, ensuring fault tolerance. The DNS protocol defines data structures and communication exchanges within the Internet protocol suite.  
+
+- DNS Components:-
+- **Namespaces:** Maintains the domain name hierarchy and translates it to IP addresses.  
+- **Name Servers:** Store DNS records and answer queries.  
+- **Common Records:** SOA, A, AAAA, MX, NS, PTR, CNAME.  
 
 Resources:-
-- [Resourse_1]()
+- [Resourse_1](https://en.wikipedia.org/wiki/Domain_Name_System)
+- [Resourse_2](https://www.cloudflare.com/learning/dns/what-is-dns/)
