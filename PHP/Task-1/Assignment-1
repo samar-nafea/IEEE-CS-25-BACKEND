@@ -3,6 +3,8 @@
 <?php 
 /* printing in php
 HTMl code inside PHP code */
+
+header('Content-Type: text/html; charset=UTF-8');
 ?>
 <!DOCTYPE html>
 <html lang="en">
