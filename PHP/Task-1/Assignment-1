@@ -2,21 +2,21 @@
 
 <?php 
 /* printing in php
-HTMl code mixed with PHP code */
+HTMl code inside PHP code */
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="">
+    <meta charset=" UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> echo'My First PHP Page' </title>
+    <title> <?='My First PHP Page'?> </title>
   </head>
   <body>
-    <div> echo'We Love' </div>
-    <div> print 'Elzero Channel' </div>
+    <div> <?='We Love'?> </div>
+    <div> <?= 'Elzero Channel'?> </div>
   </body>
-</html> ?>
-
+</html> 
 
 
 // Problem-2
