@@ -33,7 +33,7 @@ HTMl code mixed with PHP code */
 
 // Problem-4
 
-// ## First Comment -----> 
-# // # Second Comment ----->
-/* /* /* Third Comment */ ----->
-////// Fourth Comment ----->
+// ## First Comment -----> correct
+# // # Second Comment -----> correct
+/* /* /* Third Comment */ -----> false  --> correct answer /* Third Comment */
+////// Fourth Comment -----> correct
