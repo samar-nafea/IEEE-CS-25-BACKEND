@@ -1,18 +1,26 @@
 # Problem-1
+ <?php 
  echo (int) 15.2 + (int) 14.7 + (10.5 + 10.5); // 50
  echo "\n";
  echo gettype((int) 15.2 + (int) 14.7 + (int) (10.5 + 10.5)) ; // Integer
+ ?>
 
 # another sol for Problem-1
+<?php 
 echo (int) (15.2 + 14.7 + (10.5 + 10.5)); // 50
 echo "\n";
 echo gettype  ((int)(15.2 + 14.7 + (10.5 + 10.5))); // Integer
+?>
 
 # Problem-2
+<?php 
 echo gettype(100);
+echo "\n";
+echo get_debug_type(100);
 echo "\n";
 var_dump(100);
 echo is_int(100);
+?>
 
 # Problem-3
 
