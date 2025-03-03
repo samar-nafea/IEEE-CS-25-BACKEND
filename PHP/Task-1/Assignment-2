@@ -26,6 +26,11 @@ echo is_int(100);
 
 
 # Problem-4
+<?php
+echo "We \nLove \nElzero \nWeb \nSchool";
+?>
+
+# another sol for Problem-4
 <?php 
 print  "We"; 
 echo "\n";
