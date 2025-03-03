@@ -9,7 +9,10 @@ echo "\n";
 echo gettype  ((int)(15.2 + 14.7 + (10.5 + 10.5))); // Integer
 
 # Problem-2
-
+echo gettype(100);
+echo "\n";
+var_dump(100);
+echo is_int(100);
 
 # Problem-3
 
