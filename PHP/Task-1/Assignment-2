@@ -26,3 +26,20 @@ echo is_int(100);
 
 
 # Problem-4
+<?php 
+print  "We"; 
+echo "\n";
+
+print  "Love";
+echo "\n";
+
+print  "Elzero";
+echo "\n";
+
+print  "Web";
+echo "\n";
+
+print "School";
+echo "\n";
+
+?>
