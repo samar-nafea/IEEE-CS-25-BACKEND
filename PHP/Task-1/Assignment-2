@@ -23,7 +23,11 @@ echo is_int(100);
 ?>
 
 # Problem-3
-
+<?php 
+echo 'Hello "Elzero" \\\\ """ We Love "$$PHP"';
+// Needed Output
+// Hello "Elzero" \\ """ We Love "$$PHP"
+?>
 
 # Problem-4
 <?php
