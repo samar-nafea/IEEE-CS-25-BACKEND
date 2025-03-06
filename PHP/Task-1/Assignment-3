@@ -2,19 +2,22 @@
 
 
 // Problem-2
-<?php 
+<?php
  $name = "Web";
-echo"web";
-echo"\n";
-echo <<<'print'
-web
-print;
-echo"\n";
-echo <<<"print"
-$name
-print;
-# $name = "elzero"
-# $$name = "Web";
+ echo"web";
+ echo"\n";
+ echo <<<'print'
+ web
+ print;
+ echo"\n";
+ echo <<<"print"
+ $name
+ print;
+ # $name = "elzero"
+ # $$name = "Web"; 
+ echo"\n";
+ $name = "web";
+ echo $name ;
 ?>
 
 // Problem-3
