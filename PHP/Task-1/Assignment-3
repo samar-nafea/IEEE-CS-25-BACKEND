@@ -28,7 +28,7 @@ $a = 100;
 echo $b; // 100
 ?>
 
-
+# another sol for Problem-3
 <?php
 $a = 200;
 $b = $a ;
