@@ -66,3 +66,22 @@ echo $$b; // 100
 ?>
 
 // Problem-4
+
+// Problem-5
+/*
+  1. class
+  2. function
+  3. echo
+  4. print
+  5. abstract
+  6. return
+  7. try
+  8. catch
+  9.interface
+  10.default
+  11.private
+  12.public
+  13.static
+  14.include
+  15,namespace
+*/
