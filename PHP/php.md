@@ -49,3 +49,6 @@ PHP retrieves names based on their defined case sensitivity. Using the correct c
 
 - Case-Sensitive: Variables, object properties, array indexes, constants (PHP 8.0+), and class constants.
 - Case-Insensitive: Functions, class names, methods, interfaces, traits, enumerations, keywords, magic methods/constants, and namespaces.
+
+-  [Resourse_1](https://stackoverflow.com/questions/33273941/php-case-sensitivity)
+-  [Resourse_2](https://php-dictionary.readthedocs.io/en/latest/dictionary/case-sensitivity.ini.html)
