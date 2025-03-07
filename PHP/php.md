@@ -13,7 +13,7 @@ Key Points:-
   
 > what are the three main error types in PHP?
 
-### **Three Main Error Types in PHP**  
+**Three Main Error Types in PHP**  
 
 1. **Parse Error (Syntax Error)**:-  
    - Occurs due to syntax mistakes (e.g., missing semicolon, unclosed quotes, extra parentheses).  
