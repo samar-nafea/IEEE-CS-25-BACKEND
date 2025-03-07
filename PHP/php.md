@@ -9,7 +9,8 @@ Key Points:-
 - **Original Name:** Initially stood for "Personal Home Page," now **PHP: Hypertext Preprocessor** (recursive acronym).
 
 - [Resourse_1](https://www.geeksforgeeks.org/php-introduction/)
-
+- [Resourse_2](https://www.techtarget.com/whatis/definition/PHP-Hypertext-Preprocessor)
+  
 > what are the three main error types in PHP?
 
 > echo vs print?
