@@ -5,7 +5,7 @@ echo ((((10 * (20 - 15) * 3 )- 190 )* 10 )+400) ; // 0
 
 // Problem-2
 <?php
-$a = "10";
++$a = -"-10";
 echo (int)$a;
 echo"\n";
 echo gettype((int)$a);
@@ -14,9 +14,19 @@ echo $a+0;
 echo"\n";
 echo gettype($a+0);
 echo"\n";
-print $a;
+echo $a;
 echo"\n";
+echo gettype ($a);
+echo"\n";
+echo +$a;
+echo"\n";
+echo gettype(+$a);
+echo"\n";
+echo $a;
+echo"\n";
+echo gettype(-$a);
 ?>
+
 
 // Problem-3
 
