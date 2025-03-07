@@ -65,3 +65,18 @@ Task-2
 
 
 > Assign by Value VS Assign by Reference?
+
+
+----------
+Task-3
+
+> What is the difference between for and foreach loop in PHP?
+
+-------
+Task-4
+> Sessions vs. Cookies?
+
+
+> Error Handling in PHP?
+
+> How PHP Executes Code?
