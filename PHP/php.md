@@ -42,3 +42,9 @@ PHP echo and print are two most language constructs used for output data on the 
 
 - [Resourse_1](https://byjus.com/gate/difference-between-echo-and-print-in-php/)
 - [Resourse_2](https://www.geeksforgeeks.org/php-echo-print/)
+
+> Case Sensitivity in PHP
+
+PHP retrieves names based on their defined case sensitivity. Using the correct case is a common best practice.
+Case-Sensitive: Variables, object properties, array indexes, constants (PHP 8.0+), and class constants.
+Case-Insensitive: Functions, class names, methods, interfaces, traits, enumerations, keywords, magic methods/constants, and namespaces.
