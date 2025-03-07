@@ -1,11 +1,9 @@
 > what is PHP?
 
-### **PHP (Hypertext Preprocessor) - Summary**  
-
 **PHP** is a **server-side scripting language** mainly used for **web development** but can also be used for general-purpose programming. Unlike **JavaScript**, which runs on the client’s browser, **PHP scripts execute on the server**, and the output is sent as **HTML** to the browser.  
 
 Key Points:- 
-- Server-Side Execution: Runs on the web server before sending content to the client.  
+- **Server-Side Execution:** Runs on the web server before sending content to the client.  
 - **Dynamic Content:** Generates content based on script execution.  
 - **File Extension:** PHP scripts are typically saved with the **.php** extension.  
 - **Original Name:** Initially stood for "Personal Home Page," now **PHP: Hypertext Preprocessor** (recursive acronym).
