@@ -8,5 +8,6 @@ PHP is a server-side scripting language created primarily for web development bu
 
 > echo vs print?
 
-|------|--------|
+
 | echo | print |
+|------|--------|
