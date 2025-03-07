@@ -10,8 +10,8 @@ PHP is a server-side scripting language created primarily for web development bu
 
 | echo | print |
 |------|--------|
-|In Echo, we can pass multiple arguments separated by commas|	In Print, we cannot pass multiple arguments|
-|In Echo, we can exhibit the outputs of one or more strings separated by commas|	Through the Print statement, we can only show the strings|
+| we can pass multiple arguments separated by commas|	In Print, we cannot pass multiple arguments|
+|It displays the outputs of one or more strings separated by commas|	Through the Print statement, we can only show the strings|
 |Echo can be used with or without parentheses	|Print can also be used with or without parentheses|
 |This statement is fast as compared to the print statement|	It is slow as compared to the echo statement|
 |It does not return any value|	It always returns the integer value that is 1 |
