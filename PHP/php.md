@@ -1,3 +1,5 @@
+Task-1
+
 > what is PHP?
 
 **PHP** is a **server-side scripting language** mainly used for **web development** but can also be used for general-purpose programming. Unlike **JavaScript**, which runs on the client’s browser, **PHP scripts execute on the server**, and the output is sent as **HTML** to the browser.  
@@ -52,3 +54,8 @@ PHP retrieves names based on their defined case sensitivity. Using the correct c
 
 -  [Resourse_1](https://stackoverflow.com/questions/33273941/php-case-sensitivity)
 -  [Resourse_2](https://php-dictionary.readthedocs.io/en/latest/dictionary/case-sensitivity.ini.html)
+
+  ------------
+Task-2
+
+> programming language vs scripting language?
