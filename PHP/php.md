@@ -13,6 +13,22 @@ Key Points:-
   
 > what are the three main error types in PHP?
 
+### **Three Main Error Types in PHP**  
+
+1. **Parse Error (Syntax Error)**:-  
+   - Occurs due to syntax mistakes (e.g., missing semicolon, unclosed quotes, extra parentheses).  
+   - The compiler detects it and prevents execution until fixed.  
+
+2. **Fatal Error**:-  
+   - Happens when PHP understands the code but encounters an undefined function or serious issue.  
+   - Causes the script to stop running immediately.  
+
+3. **Warning Error**:-  
+   - Occurs when a problem is encountered (e.g., missing file) but does not stop execution.  
+   - Should not be ignored as it may cause issues later.
+
+- [Resourse_1](https://www.scaler.com/topics/php-tutorial/types-of-errors-in-php/)
+- [Resourse_2](https://www.geeksforgeeks.org/php-types-of-errors/)
 > echo vs print?
 
 PHP echo and print are two most language constructs used for output data on the screen. 
