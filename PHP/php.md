@@ -8,7 +8,7 @@ PHP is a server-side scripting language created primarily for web development bu
 
 > echo vs print?
 
-The main difference between the print and echo statement is that echo does not behave like a function whereas print behaves like a function.
+PHP echo and print are two most language constructs used for output data on the screen. 
 | echo | print |
 |------|--------|
 | we can pass multiple arguments separated by commas|	In Print, we cannot pass multiple arguments|
