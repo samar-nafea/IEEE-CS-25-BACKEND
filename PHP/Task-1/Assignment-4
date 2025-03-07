@@ -29,5 +29,15 @@ echo gettype(-$a);
 
 
 // Problem-3
+<?php
+$a = 10;
+$b = 20;
+echo"\n";
+echo ($b-$a-11);
+echo"\n";
+echo (($a - $b) / 10);
+echo"\n";
+echo ($a - $b + 9);
+?>
 
 // Problem-4
