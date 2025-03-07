@@ -5,3 +5,8 @@ PHP is a server-side scripting language created primarily for web development bu
 - (https://www.geeksforgeeks.org/php-introduction/)
 
 > what are the three main error types in PHP?
+
+> echo vs print?
+
+|------|--------|
+| echo | print |
