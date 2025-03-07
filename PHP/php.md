@@ -59,3 +59,9 @@ PHP retrieves names based on their defined case sensitivity. Using the correct c
 Task-2
 
 > programming language vs scripting language?
+
+
+> dynamically typed vs statically typed language?
+
+
+> Assign by Value VS Assign by Reference?
