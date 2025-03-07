@@ -22,7 +22,7 @@ echo +$a;
 echo"\n";
 echo gettype(+$a);
 echo"\n";
-echo $a;
+print $a;
 echo"\n";
 echo gettype(-$a);
 ?>
