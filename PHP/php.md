@@ -74,10 +74,18 @@ Task-2
 - [Resourse_1](https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/)
 - [Resourse_2](https://www.interviewbit.com/blog/scripting-language-vs-programming-language/) 
 
-> dynamically typed vs statically typed language?
-
-
 > Assign by Value VS Assign by Reference?
+
+| Assign by Value   |  Assign by Reference |
+|-------|-----|
+| A copy of the actual parameter’s value is made in memory | A copy of the address of the actual parameter is made in memory|
+|Passes an argument by value |Passes an argument by reference|
+|Changes made to the passed variable do not affect the actual value |  Changes to the value have an effect on the original data|
+|A copy of the data is sent to the callee |The memory address of the stored data is passed |
+
+- [Resourse_1](https://how.dev/answers/pass-by-value-vs-pass-by-reference)
+
+> dynamically typed vs statically typed language?
 
 | Statically Typed Languages | Dynamically Typed Languages  |
 |-------|-----|
