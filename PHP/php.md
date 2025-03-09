@@ -67,10 +67,8 @@ Task-2
 |User interface design, data types, and graphic design are all greatly aided by scripting languages| User interface design and graphic design are often partially supported by programming languages|
 |	Scripting languages contain different libraries	|They are high-speed languages  |
 |These languages requires a host|	These languages are self executable|
-|	Do not create a .exe file|	These generate .exe files|
+|	Do not create a .exe file & do not create any binary files|	These generate .exe files & create binary files|
 |It is less code intensive when compared with programming language|	It is code intensive|
-|	It does not create any binary files|	It does creates binary files|
-|	It is easy for the beginner to write and understand the code|	It is difficult for the beginner to write and understand the code|
 |	It is run inside another program|	It is independently run|
 
 - [Resourse_1](https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/)
