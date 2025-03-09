@@ -64,6 +64,7 @@ Task-2
 |	These are made for a particular runtime environment|Programming languages are of three types :- low-level Programming language, Middle-level Programming language, High-level Programming language|
 |Scripting languages take less time to code, as fewer lines (in most cases) of code are to be written|Programming language code takes a long time to develop since more code must be written (in most cases)|
 |	They are used to create dynamic web applications|	Programming languages are used to write computer programs|
+|User interface design, data types, and graphic design are all greatly aided by scripting languages| User interface design and graphic design are often partially supported by programming languages|
 |	Scripting languages contain different libraries	|They are high-speed languages  |
 |These languages requires a host|	These languages are self executable|
 |	Do not create a .exe file|	These generate .exe files|
@@ -73,7 +74,7 @@ Task-2
 |	It is run inside another program|	It is independently run|
 
 - [Resourse_1](https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/)
-- 
+-  [Resourse_2](https://www.interviewbit.com/blog/scripting-language-vs-programming-language/) 
 > dynamically typed vs statically typed language?
 
 
