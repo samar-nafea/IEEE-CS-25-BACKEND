@@ -73,10 +73,11 @@ Task-2
 
 - [Resourse_1](https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/)
 - [Resourse_2](https://www.interviewbit.com/blog/scripting-language-vs-programming-language/) 
-> dynamically typed vs statically typed language?
+
+# dynamically typed vs statically typed language?
 
 
-> Assign by Value VS Assign by Reference?
+## Assign by Value VS Assign by Reference?
 
 | Statically Typed Languages | Dynamically Typed Languages  |
 |-------|-----|
