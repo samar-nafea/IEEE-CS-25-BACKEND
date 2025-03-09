@@ -61,10 +61,7 @@ Task-2
 |Scripting Language	| Programming Language  |
 |-------|-----|
 | A scripting language is a language that uses a naive method to bring codes to a runtime environment|	A Programming language is a language which is used by humans to navigate their communication with computers|
-|	These are made for a particular runtime environment|Programming languages are of three types :-
-low-level Programming language
-Middle-level Programming language
-High-level Programming language|
+|	These are made for a particular runtime environment|Programming languages are of three types :- low-level Programming language, Middle-level Programming language, High-level Programming language|
 |	They are used to create dynamic web applications|	Programming languages are used to write computer programs|
 |	Scripting languages contain different libraries	|They are high-speed languages  |
 
