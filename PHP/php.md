@@ -72,13 +72,20 @@ Task-2
 |	It is run inside another program|	It is independently run|
 
 - [Resourse_1](https://www.geeksforgeeks.org/whats-the-difference-between-scripting-and-programming-languages/)
--  [Resourse_2](https://www.interviewbit.com/blog/scripting-language-vs-programming-language/) 
+- [Resourse_2](https://www.interviewbit.com/blog/scripting-language-vs-programming-language/) 
 > dynamically typed vs statically typed language?
 
 
 > Assign by Value VS Assign by Reference?
 
+| Statically Typed Languages | Dynamically Typed Languages  |
+|-------|-----|
+| Type checking is completed at compile time  | Type checking is completed during runtime |
+|Explicit type declarations are usually required	|Explicit declarations are not required |
+|Variable assignments are static and cannot be changed |Variable assignments are dynamic and can be altered|
 
+- [Resourse_1](https://www.baeldung.com/cs/statically-vs-dynamically-typed-languages)
+- [Resourse_2](https://www.netguru.com/blog/static-vs-dynamic-typing)
 ----------
 Task-3
 > What is the difference between for and foreach loop in PHP?
