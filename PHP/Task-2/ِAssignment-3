@@ -1,20 +1,11 @@
 # Problem-1
-<?php 
-function greeting($someone, $gender="")
-{  echo"Hello $gender $someone";
- if( $gender =="male"){
-    echo "Mr";
-  }
-  elseif ($gender=="female") {
-    echo"Miss";
-  }
-  else {
-    echo "";
-  }
+<?php  
+function greeting($someone, $gender="") 
+{
+    $title = ($gender == "male") ? "Mr " : (($gender == "female") ? "Miss " : "");
+    echo "Hello " .$title .$someone . "\n";
 }
-greeting("Osama","Mr");
-echo"\n";
-greeting(" Eman","Miss");
-echo"\n";
-greeting("Sameh");
+greeting("Osama", "male");  
+greeting("Eman", "female");  
+greeting("Sameh");         
 ?>
