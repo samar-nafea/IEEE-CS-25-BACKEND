@@ -10,6 +10,14 @@ greeting("Eman", "female");
 greeting("Sameh");         
 ?>
 
+# Problem-2
+<?php  
+function get_arguments(...$args) {
+    return implode(" ", $args);
+}
+echo get_arguments("Hello", "Elzero", "Web", "School") . "\n"; 
+echo get_arguments("I", "Love", "PHP") . "\n"; 
+?>
 
 # Problem-3
 <?php  
