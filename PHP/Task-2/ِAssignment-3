@@ -1,1 +1,20 @@
-
+# Problem-1
+<?php 
+function greeting($someone, $gender="")
+{  echo"Hello $gender $someone";
+ if( $gender =="male"){
+    echo "Mr";
+  }
+  elseif ($gender=="female") {
+    echo"Miss";
+  }
+  else {
+    echo "";
+  }
+}
+greeting("Osama","Mr");
+echo"\n";
+greeting(" Eman","Miss");
+echo"\n";
+greeting("Sameh");
+?>
