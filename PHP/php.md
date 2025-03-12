@@ -98,7 +98,8 @@ Task-2
 ----------
 Task-3
 > What is the difference between for and foreach loop in PHP?
-|for |foreach |
+
+|for loop |foreach loop|
 |-------|-----|
 | The for loop works at the end of the given condition. It is used for the implementation of variables and works in a single way |The foreach loop works at the end of the array count. This loop can work with variables as well as associative arrays. Therefore, this loop can be implemented in more than one way |
 |Upon working with collections, it needs the usage of the count() function|	It can simply work without the usage of the count() method|
